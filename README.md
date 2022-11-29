@@ -15,12 +15,12 @@ To write a program to implement the SVM For Spam Mail Detection.
 5. Convert the Alphabetical data to numeric using CountVectorizer.
 6. Predict the number of spam in the data using SVC (C-Support Vector Classification) method of SVM (Support vector machine) in sklearn library.
 7. Find the accuracy of the model.
+
 ## Program:
-/*
+
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Gayathri A
+RegisterNumber:  212221230028
 ```
 import pandas as pd
 df=pd.read_csv("/content/spam.csv",encoding='Windows-1252')
